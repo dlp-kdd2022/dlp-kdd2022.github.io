@@ -1,4 +1,4 @@
-## 1st International Workshop on Deep Learning Practice for High- Dimensional Sparse Data with KDD 2019
+## 4th International Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse, and Imbalanced Data with KDD 2022
 
 # The Architect theme
 
