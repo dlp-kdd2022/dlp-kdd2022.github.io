@@ -65,7 +65,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div class="column">
   <div class="photo">
   <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">
-  <img src="assets/img/bg.png" class="shake shake-little">
+  <img src="assets/img/zxq.png" class="shake shake-little">
   </a><br>
   <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">Xiaoqiang Zhu</a>
   <div>Tech Lead of advertising group</div>
