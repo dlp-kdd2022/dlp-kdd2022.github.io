@@ -11,6 +11,11 @@ Questions of interest include (but are not limited to):
 - What are the most pertinent questions related to deep representation learning from data with adverse properties? Questions to consider are: is it possible to generalize few-shot learning across domains? What are the relative advantages of few-shot learning over fine-tuned transfer learning? What are the impacts of, and solutions to, deep representation learning from long-tailed data and data with imbalanced class priors? Moreover, we welcome, and in fact, encourage other questions.
 - What are the moral and social issues related to the applications of models trained on limited and adverse data? Can these be mitigated with new technical solutions?
 
+- What are the challenges and risks associated with deep representation learning from limited and adverse data?
+How do the challenges and required solutions overlap and diverge in deep and shallow representation learning? Can old insights be repurposed for the deep world?
+- What are the most pertinent questions related to deep representation learning from data with adverse properties? Questions to consider are: is it possible to generalize few-shot learning across domains? What are the relative advantages of few-shot learning over fine-tuned transfer learning? What are the impacts of, and solutions to, deep representation learning from long-tailed data and data with imbalanced class priors? Moreover, we welcome, and in fact, encourage other questions.
+- What are the moral and social issues related to the applications of models trained on limited and adverse data? Can these be mitigated with new technical solutions?
+
 
 Website for dlp-kdd2021 can be found **[<b style="color:red"> here </b>](https://dlp-kdd.github.io/)**
 
