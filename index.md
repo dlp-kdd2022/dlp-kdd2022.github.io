@@ -65,7 +65,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div class="column">
   <div class="photo">
   <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">
-  <img src="assets/img/zxq.png" class="shake shake-little">
+  <img src="assets/img/zxq.png" class="shake shake-little" width="50" height="100">
   </a><br>
   <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">Xiaoqiang Zhu</a>
   <div>Tech Lead of advertising group</div>
@@ -76,7 +76,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div class="column">
   <div class="photo">
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
-  <img src="assets/img/nathalie.jpeg" class="shake shake-little">
+  <img src="assets/img/nathalie.jpeg" class="shake shake-little" width="50" height="100">
   </a><br>
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">Nathalie Japkowicz</a>
   <div>Professor</div>
@@ -88,7 +88,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div class="column">
   <div class="photo">
   <a href="https://paobranco.github.io">
-  <img src="assets/img/paula.jpg" class="shake shake-little",width="50" height="100">
+  <img src="assets/img/paula.jpg" class="shake shake-little" width="50" height="100">
   </a><br>
   <a href="hhttps://paobranco.github.io">Paula Branco</a>
   <div>Assistant Professor</div>
@@ -101,7 +101,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div class="column">
   <div class="photo">
   <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">
-  <img src="assets/img/roberto.jpg" class="shake shake-little",width="50" height="100">
+  <img src="assets/img/roberto.jpg" class="shake shake-little" width="50" height="100">
   </a><br>
   <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">Roberto Corizzo</a>
   <div>Assistant Professor</div>
@@ -113,7 +113,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div class="column">
   <div class="photo">
   <a href="https://web.cs.dal.ca/~bellinger/">
-  <img src="assets/img/cb.jpeg" class="shake shake-little",width="50" height="100">
+  <img src="assets/img/cb.jpeg" class="shake shake-little" width="50" height="100">
   </a><br>
   <a href="https://web.cs.dal.ca/~bellinger/">Colin Bellinger</a>
   <div>AI Researcher</div>
