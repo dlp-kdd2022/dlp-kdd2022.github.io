@@ -61,18 +61,67 @@ For all the accepted paper, we provide the option that it **could be archived in
 If you have any questions about submissions or our workshop, please contact [*dlpkddworkshop@gmail.com*](mailto:dlpkddworkshop@gmail.com)
 
 ## Workshop Chairs
-
+<div class="row">
+  <div class="column">
   <div class="photo">
   <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">
-  <img src="assets/img/zxq.jpeg" class="shake shake-little">
+  <img src="assets/img/bg.png" class="shake shake-little">
   </a><br>
   <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">Xiaoqiang Zhu</a>
   <div>Tech Lead of advertising group</div>
   <div>Alibaba</div>
   </div>
-
+  </div>
   
-  <img src="assets/img/bg.png">  
+  <div class="column">
+  <div class="photo">
+  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
+  <img src="assets/img/nathalie.jpeg" class="shake shake-little",width="50" height="100">
+  </a><br>
+  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">Nathalie Japkowicz</a>
+  <div>Professor</div>
+  <div>American University, Washington D.C., USA</div>
+  <div>japkowic@american.edu</div>
+  </div>
+  </div>
+    
+  <div class="column">
+  <div class="photo">
+  <a href="https://paobranco.github.io">
+  <img src="assets/img/paula.jpg" class="shake shake-little",width="50" height="100">
+  </a><br>
+  <a href="hhttps://paobranco.github.io">Paula Branco</a>
+  <div>Assistant Professor</div>
+  <div>University of Ottawa, Ottawa, Canada</div>
+  <div>pbranco@uottawa.ca</div>
+  </div>
+  </div>
+  </div>
+<div class="row">    
+  <div class="column">
+  <div class="photo">
+  <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">
+  <img src="assets/img/roberto.jpg" class="shake shake-little",width="50" height="100">
+  </a><br>
+  <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">Roberto Corizzo</a>
+  <div>Assistant Professor</div>
+  <div>American University, Washington D.C., USA</div>
+  <div>rcorizzo@american.edu</div>
+  </div>
+  </div>
+    
+  <div class="column">
+  <div class="photo">
+  <a href="https://web.cs.dal.ca/~bellinger/">
+  <img src="assets/img/cb.jpeg" class="shake shake-little",width="50" height="100">
+  </a><br>
+  <a href="https://web.cs.dal.ca/~bellinger/">Colin Bellinger</a>
+  <div>AI Researcher</div>
+  <div>National Research Council of Canada</div>
+  <div>colin.bellinger@nrc-cnrc.gc.ca</div>
+  </div>
+  </div>
+</div>
 
 ## Program Committee
 
