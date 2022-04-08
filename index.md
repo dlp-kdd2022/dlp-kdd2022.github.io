@@ -76,7 +76,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div class="column">
   <div class="photo">
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
-  <img src="assets/img/nathalie.jpeg" class="shake shake-little",width="50" height="100">
+  <img src="assets/img/nathalie.jpeg" class="shake shake-little">
   </a><br>
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">Nathalie Japkowicz</a>
   <div>Professor</div>
