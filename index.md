@@ -61,42 +61,6 @@ For all the accepted paper, we provide the option that it **could be archived in
 If you have any questions about submissions or our workshop, please contact [*dlpkddworkshop@gmail.com*](mailto:dlpkddworkshop@gmail.com)
 
 ## Workshop Chairs
-<div class="row">
-  <div class="column">
-  <div class="photo">
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">
-  <img src="assets/img/zxq.png" class="shake shake-little">
-  </a><br>
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">Xiaoqiang Zhu</a>
-  <div>Tech Lead of advertising group</div>
-  <div>Alibaba</div>
-  </div>
-  </div>
-  
-  <div class="column">
-  <div class="photo">
-  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
-  <img src="assets/img/nathalie.jpeg" class="shake shake-little">
-  </a><br>
-  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">Nathalie Japkowicz</a>
-  <div>Professor</div>
-  <div>American University, Washington D.C., USA</div>
-  <div>japkowic@american.edu</div>
-  </div>
-  </div>
-    
-  <div class="column">
-  <div class="photo">
-  <a href="https://paobranco.github.io">
-  <img src="assets/img/paula.jpg" class="shake shake-little">
-  </a><br>
-  <a href="hhttps://paobranco.github.io">Paula Branco</a>
-  <div>Assistant Professor</div>
-  <div>University of Ottawa, Ottawa, Canada</div>
-  <div>pbranco@uottawa.ca</div>
-  </div>
-  </div>
-  </div>
 <div class="row">    
   <div class="column">
   <div class="photo">
@@ -121,6 +85,47 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>colin.bellinger@nrc-cnrc.gc.ca</div>
   </div>
   </div>
+  
+  <div class="column">
+  <div class="photo">
+  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
+  <img src="assets/img/nathalie.jpeg" class="shake shake-little">
+  </a><br>
+  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">Nathalie Japkowicz</a>
+  <div>Professor</div>
+  <div>American University, Washington D.C., USA</div>
+  <div>japkowic@american.edu</div>
+  </div>
+  </div>
+    
+</div>
+
+<div class="row">
+  
+  <div class="column">
+  <div class="photo">
+  <a href="https://paobranco.github.io">
+  <img src="assets/img/paula.jpg" class="shake shake-little">
+  </a><br>
+  <a href="hhttps://paobranco.github.io">Paula Branco</a>
+  <div>Assistant Professor</div>
+  <div>University of Ottawa, Ottawa, Canada</div>
+  <div>pbranco@uottawa.ca</div>
+  </div>
+  </div>
+  </div>
+  
+  <div class="column">
+  <div class="photo">
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">
+  <img src="assets/img/zxq.png" class="shake shake-little">
+  </a><br>
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">Xiaoqiang Zhu</a>
+  <div>Tech Lead of advertising group</div>
+  <div>Alibaba</div>
+  </div>
+  </div>
+
 </div>
 
 ## Program Committee
