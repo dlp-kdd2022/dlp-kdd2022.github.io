@@ -38,7 +38,7 @@ Topics include but are not limited to deep learning based network architecture d
 - Generative Adversarial Networks for High-Dimensional, Sparse, and Imbalanced Data
 - Leveraging Insights from Traditional Machine Learning and Data Mining Approaches to Deal with High-Dimensional, Sparse, and Imbalanced Data in the Deep Learning World
 - Moral and Social Issues Related to the Applications of Models trained on High-Dimensional, Sparse, and Imbalanced Data
-- Other Challenges Eencountered in Real-World Applications
+- Other Challenges Encountered in Real-World Applications
 
 ## Call for papers
 
@@ -87,8 +87,8 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>AI Researcher</div>
   <div>National Research Council of Canada</div>
   <div>colin.bellinger@nrc-cnrc.gc.ca</div>
-  </div>
 </div>
+
 
 
 <div class="photo">
