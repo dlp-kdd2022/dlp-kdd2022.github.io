@@ -61,6 +61,17 @@ For all the accepted paper, we provide the option that it **could be archived in
 If you have any questions about submissions or our workshop, please contact [*dlpkddworkshop@gmail.com*](mailto:dlpkddworkshop@gmail.com)
 
 ## Workshop Chairs
+
+
+<div class="photo">
+  <a href="http://byeah.github.io">
+  <img src="assets/img/jby.jpeg" class="shake shake-little" />
+  </a><br />
+  <a href="http://byeah.github.io">Biye Jiang</a>
+  <div>Algorithm expert of advertising group</div>
+  <div>Alibaba</div>
+</div>
+
 <div class="photo">
   <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">
   <img src="assets/img/roberto.jpg" class="shake shake-little">
@@ -82,7 +93,16 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>colin.bellinger@nrc-cnrc.gc.ca</div>
   </div>
 </div>
-  
+
+
+<div class="photo">
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">
+  <img src="assets/img/zxq.jpeg" class="shake shake-little" />
+  </a><br />
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">Xiaoqiang Zhu</a>
+  <div>Tech Lead of advertising group</div>
+  <div>Alibaba</div>
+</div>
   
 <div class="photo">
   <a href="https://paobranco.github.io">
@@ -92,8 +112,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Assistant Professor</div>
   <div>University of Ottawa, Ottawa, Canada</div>
   <div>pbranco@uottawa.ca</div>
-  </div>
-  </div>
 </div>
   
 <div class="photo">
@@ -106,14 +124,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>japkowic@american.edu</div>
 </div>
 
-<div class="photo">
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">
-  <img src="assets/img/zxq.jpeg" class="shake shake-little" />
-  </a><br />
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">Xiaoqiang Zhu</a>
-  <div>Tech Lead of advertising group</div>
-  <div>Alibaba</div>
-  </div>
 
 <div class="photo">
   <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">
@@ -132,14 +142,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Alibaba</div>
   </div>
 
-<div class="photo">
-  <a href="http://byeah.github.io">
-  <img src="assets/img/jby.jpeg" class="shake shake-little" />
-  </a><br />
-  <a href="http://byeah.github.io">Biye Jiang</a>
-  <div>Algorithm expert of advertising group</div>
-  <div>Alibaba</div>
-  </div>
 
 <div class="photo">
   <a href="http://wzhe.me/">
