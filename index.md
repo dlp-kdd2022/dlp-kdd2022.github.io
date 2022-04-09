@@ -61,9 +61,7 @@ For all the accepted paper, we provide the option that it **could be archived in
 If you have any questions about submissions or our workshop, please contact [*dlpkddworkshop@gmail.com*](mailto:dlpkddworkshop@gmail.com)
 
 ## Workshop Chairs
-<div class="row">    
-  <div class="column">
-  <div class="photo">
+<div class="photo">
   <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">
   <img src="assets/img/roberto.jpg" class="shake shake-little">
   </a><br>
@@ -72,10 +70,9 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>American University, Washington D.C., USA</div>
   <div>rcorizzo@american.edu</div>
   </div>
-  </div>
+</div>
     
-  <div class="column">
-  <div class="photo">
+<div class="photo">
   <a href="https://web.cs.dal.ca/~bellinger/">
   <img src="assets/img/cb.jpeg" class="shake shake-little">
   </a><br>
@@ -84,11 +81,10 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>National Research Council of Canada</div>
   <div>colin.bellinger@nrc-cnrc.gc.ca</div>
   </div>
-  </div>
+</div>
   
   
-  <div class="column">
-  <div class="photo">
+<div class="photo">
   <a href="https://paobranco.github.io">
   <img src="assets/img/paula.jpg" class="shake shake-little">
   </a><br>
@@ -98,10 +94,9 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>pbranco@uottawa.ca</div>
   </div>
   </div>
-  </div>
+</div>
   
-  <div class="column">
-  <div class="photo">
+<div class="photo">
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
   <img src="assets/img/nathalie.jpeg" class="shake shake-little">
   </a><br>
@@ -109,26 +104,87 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Professor</div>
   <div>American University, Washington D.C., USA</div>
   <div>japkowic@american.edu</div>
-  </div>
-  </div>
-    
 </div>
 
-<div class="row">
-  
-  
-  <div class="column">
-  <div class="photo">
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">
-  <img src="assets/img/zxq.png" class="shake shake-little">
-  </a><br>
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&hl=en">Xiaoqiang Zhu</a>
+<div class="photo">
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">
+  <img src="assets/img/zxq.jpeg" class="shake shake-little" />
+  </a><br />
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">Xiaoqiang Zhu</a>
   <div>Tech Lead of advertising group</div>
   <div>Alibaba</div>
   </div>
+
+<div class="photo">
+  <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">
+  <img src="assets/img/lkc.jpeg" class="shake shake-little" />
+  </a><br />
+   <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">Kuang-chih Lee</a>
+  <div>Tech Lead of business intelligence group, AliExpress</div>
   </div>
 
-</div>
+<div class="photo">
+  <a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&amp;hl=en">
+  <img src="assets/img/zgr.jpeg" class="shake shake-little" />
+  </a><br />
+<a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&amp;hl=en">Guorui Zhou</a>
+  <div>Senior Algorithm expert of advertising group</div>
+  <div>Alibaba</div>
+  </div>
+
+<div class="photo">
+  <a href="http://byeah.github.io">
+  <img src="assets/img/jby.jpeg" class="shake shake-little" />
+  </a><br />
+  <a href="http://byeah.github.io">Biye Jiang</a>
+  <div>Algorithm expert of advertising group</div>
+  <div>Alibaba</div>
+  </div>
+
+<div class="photo">
+  <a href="http://wzhe.me/">
+    <img src="assets/img/wz.jpg" class="shake shake-little" />
+  </a><br />
+  <a href="http://wzhe.me/">Zhe Wang</a>
+  <div>Tech Lead</div>
+  <div>Recommendation group, Roku</div>
+  </div>
+
+<div class="photo">
+  <a href="http://www.saying.ren/">
+    <img src="assets/img/rk.jpg" class="shake shake-little" />
+  </a><br />
+  <a href="http://www.saying.ren/">Kan Ren</a>
+  <div>Microsoft Research</div>
+  </div>
+
+<div class="photo">
+  <a href="http://ir.aiqingyao.org/home">
+    <img src="assets/img/aqy.jpg" class="shake shake-little" />
+  </a><br />
+  <a href="http://ir.aiqingyao.org/home">Qingyao Ai</a>
+  <div>Assistant Professor</div>
+  <div>University of Utah</div>
+  </div>
+
+<div class="photo">
+  <a href="http://wnzhang.net">
+    <img src="assets/img/zwn.png" class="shake shake-little" />
+  </a><br />
+  <a href="http://wnzhang.net">Weinan Zhang</a>
+  <div>Associate Professor</div>
+  <div>Shanghai Jiao Tong University</div>
+  </div>
+
+<div class="photo">
+  <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&amp;hl=en">
+    <img src="assets/img/trm.jpeg" class="shake shake-little" />
+  </a><br />
+  <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&amp;hl=en">Ruiming Tang</a>
+  <div>Senior Researcher</div>
+  <div>Huawei Noah Ark Lab</div>
+  </div>
+
 
 ## Program Committee
 
