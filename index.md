@@ -80,7 +80,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Assistant Professor</div>
   <div>American University, Washington D.C., USA</div>
   <div>rcorizzo@american.edu</div>
-  </div>
 </div>
     
 <div class="photo">
