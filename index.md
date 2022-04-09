@@ -4,14 +4,7 @@
 
 In the increasingly digitalized world, it is of utmost importance for various applications to harness the ability to process, understand, and exploit data collected from the Internet. For instance, in customer-centric applications such as personalized recommendation, online advertising, and search engines, interest/intention modeling from customers’ behavioral data can not only significantly enhance user experiences but also greatly contribute to revenues. Recently, we have witnessed that Deep Learning-based approaches began to empower these internet- scale applications by better leveraging the massive data. However, the data in these internet-scale applications are high dimensional and extremely sparse, which makes it different from many applications with dense data such as image classification and speech recognition where Deep Learning-based approaches have been extensively studied. For example, the training samples of a typical click-through rate (CTR) prediction task often involve billions of sparse features, how to mine, model and inference from such data becomes an interesting problem, and how to leverage such data in Deep Learning could be a new research direction. The characteristics of such data pose unique challenges to the adoption of Deep Learning in these applications, including modeling, training, and online serving, etc. More and more communities from both academia and industry have initiated the endeavors to solve these challenges. This workshop will provide a venue for both the research and engineering communities to discuss the challenges, opportunities, and new ideas in the practice of Deep Learning on high-dimensional sparse data.
 
-Questions of interest include (but are not limited to):
-
-- What are the challenges and risks associated with deep representation learning from limited and adverse data?
-- How do the challenges and required solutions overlap and diverge in deep and shallow representation learning? Can old insights be repurposed for the deep world?
-- What are the most pertinent questions related to deep representation learning from data with adverse properties? Questions to consider are: is it possible to generalize few-shot learning across domains? What are the relative advantages of few-shot learning over fine-tuned transfer learning? What are the impacts of, and solutions to, deep representation learning from long-tailed data and data with imbalanced class priors? Moreover, we welcome, and in fact, encourage other questions.
-- What are the moral and social issues related to the applications of models trained on limited and adverse data? Can these be mitigated with new technical solutions?
-
-
+## Previous Editions
 
 Website for dlp-kdd2021 can be found **[<b style="color:red"> here </b>](https://dlp-kdd.github.io/)**
 
@@ -28,20 +21,24 @@ Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https:
 
 ## Topics of Interest
 Topics include but are not limited to deep learning based network architecture design, large scale deep learning training framework, high-performance online inference engine or toolkits that help breaking the black box of deep learning models, such as
+- Challenges and Risks of Deep Learning from High-Dimensional, Sparse, and Imbalanced Data
 - Large Scale User Response Prediction Modeling
-- Representation Learning for High-dimensional Sparse Data
+- Representation Learning for High-Dimensional, Sparse, and Imbalanced Data
+- Multi-domain generalization through Few-Shot Learning and Zero-Shot Learning
 - Embedding techniques, manifold learning and dictionary learning
-- User Behaviour Understanding
-- Large Scale Recommendation and Retrieval System
-- Model compression for industrial application
 - Scalable, Distributed and Parallel Training System for Deep Learning
-- High throughput and low latency real time Serving System
-- Applications of transfer learning, meta learning for sparse data
+- High Throughput and Low Latency Real-Time Serving Systems
+- Applications of Transfer Learning and Meta Learning for High-Dimensional, Sparse, and Imbalanced Data
+- User Behaviour Understanding
+- Large Scale Recommendation and Retrieval Systems
+- Model Compression for Industrial Applications 
 - Auto Machine Learning, Auto feature selection
-- Explainable deep learning for high dimensional data
-- Data augmentation, Anomaly Detection for High-dimensional Sparse data
-- Generative Adversarial Network for sparse data
-- Other challenges encountered in real-world applications
+- Explainable Deep Learning for High-Dimensional, Sparse, and Imbalanced Data
+- Data Augmentation and Anomaly Detection for High-Dimensional, Sparse, and Imbalanced Data
+- Generative Adversarial Networks for High-Dimensional, Sparse, and Imbalanced Data
+- Leveraging Insights from Traditional Machine Learning and Data Mining Approaches to Deal with High-Dimensional, Sparse, and Imbalanced Data in the Deep Learning World
+- Moral and Social Issues Related to the Applications of Models trained on High-Dimensional, Sparse, and Imbalanced Data
+- Other Challenges Eencountered in Real-World Applications
 
 ## Call for papers
 
