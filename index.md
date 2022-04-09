@@ -86,6 +86,20 @@ If you have any questions about submissions or our workshop, please contact [*dl
   </div>
   </div>
   
+  
+  <div class="column">
+  <div class="photo">
+  <a href="https://paobranco.github.io">
+  <img src="assets/img/paula.jpg" class="shake shake-little">
+  </a><br>
+  <a href="hhttps://paobranco.github.io">Paula Branco</a>
+  <div>Assistant Professor</div>
+  <div>University of Ottawa, Ottawa, Canada</div>
+  <div>pbranco@uottawa.ca</div>
+  </div>
+  </div>
+  </div>
+  
   <div class="column">
   <div class="photo">
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
@@ -102,18 +116,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="row">
   
-  <div class="column">
-  <div class="photo">
-  <a href="https://paobranco.github.io">
-  <img src="assets/img/paula.jpg" class="shake shake-little">
-  </a><br>
-  <a href="hhttps://paobranco.github.io">Paula Branco</a>
-  <div>Assistant Professor</div>
-  <div>University of Ottawa, Ottawa, Canada</div>
-  <div>pbranco@uottawa.ca</div>
-  </div>
-  </div>
-  </div>
   
   <div class="column">
   <div class="photo">
