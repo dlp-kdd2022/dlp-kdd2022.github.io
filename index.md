@@ -86,6 +86,15 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>American University, Washington D.C., USA</div>
   <div>rcorizzo@american.edu</div>
 </div>
+
+<div class="photo">
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">
+  <img src="assets/img/zxq.jpeg" class="shake shake-little" />
+  </a><br />
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">Xiaoqiang Zhu</a>
+  <div>Tech Lead of advertising group</div>
+  <div>Alibaba</div>
+</div>
     
 <div class="photo">
   <a href="https://web.cs.dal.ca/~bellinger/">
@@ -96,16 +105,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>National Research Council of Canada</div>
   <div>colin.bellinger@nrc-cnrc.gc.ca</div>
 </div>
-
-<div class="photo">
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">
-  <img src="assets/img/zxq.jpeg" class="shake shake-little" />
-  </a><br />
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">Xiaoqiang Zhu</a>
-  <div>Tech Lead of advertising group</div>
-  <div>Alibaba</div>
-</div>
-
 
 <div class="photo">
   <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">
