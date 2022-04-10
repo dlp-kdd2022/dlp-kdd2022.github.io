@@ -183,6 +183,9 @@ If you have any questions about submissions or our workshop, please contact [*dl
   </div>
 
 <div class="photo">
+</div>
+  
+<div class="photo">
   <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&amp;hl=en">
     <img src="assets/img/trm.jpeg" class="shake shake-little" />
   </a><br />
@@ -190,7 +193,9 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Senior Researcher</div>
   <div>Huawei Noah Ark Lab</div>
   </div>
-
+  
+<div class="photo">
+</div>
 
 ## Program Committee
 To be defined. 
