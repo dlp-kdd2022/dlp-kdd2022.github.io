@@ -19,31 +19,32 @@ Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https:
 
 ## Important Dates
 
-- Submission deadline:  May 26, 2022 23:59 anywhere on earth (Could be extended)
+- Submission deadline:  May 26, 2022 23:59 anywhere on earth
 - Acceptance notification: June 20 2022.
 - Workshop date: August 15, 2022   
 
 
 ## Topics of Interest
-Topics include but are not limited to deep learning based network architecture design, large scale deep learning training framework, high-performance online inference engine or toolkits that help breaking the black box of deep learning models, such as
-- Challenges and Risks of Deep Learning from High-Dimensional, Sparse, and Imbalanced Data
-- Large Scale User Response Prediction Modeling
-- Representation Learning for High-Dimensional, Sparse, and Imbalanced Data
-- Multi-domain generalization through Few-Shot Learning and Zero-Shot Learning
-- Embedding techniques, Manifold Learning and Dictionary Learning
-- Scalable, Distributed and Parallel Training System for Deep Learning
-- High Throughput and Low Latency Real-Time Serving Systems
-- Applications of Transfer Learning and Meta Learning for High-Dimensional, Sparse, and Imbalanced Data
-- User Behavior Understanding
-- Large Scale Recommendation and Retrieval Systems
-- Model Compression for Industrial Applications 
-- Auto Machine Learning, Auto feature selection
-- Explainable Deep Learning for High-Dimensional, Sparse, and Imbalanced Data
-- Data Augmentation and Anomaly Detection for High-Dimensional, Sparse, and Imbalanced Data
-- Generative Adversarial Networks for High-Dimensional, Sparse, and Imbalanced Data
-- Leveraging Insights from Traditional Machine Learning and Data Mining Approaches to Deal with High-Dimensional, Sparse, and Imbalanced Data in the Deep Learning World
-- Moral and Social Issues Related to the Applications of Models trained on High-Dimensional, Sparse, and Imbalanced Data
-- Other Challenges Encountered in Real-World Applications
+<!-- Topics include but are not limited to topics related to deep learning with high-dimensional, sparse and imbalanced data, large scale deep learning training framework, high-performance online inference engine or toolkits that help breaking the black box of deep learning models, such as -->
+The topics of interest include, but are not limited to, the following:
+- Challenges and Risks of deep learning from high-dimensional, sparse, and imbalanced data
+- Large scale user response prediction modeling
+- Representation learning for high-dimensional, sparse, and imbalanced data
+- Multi-domain generalization through few-shot learning and zero-shot learning
+- Embedding techniques, manifold learning and dictionary learning
+- Scalable, distributed and parallel training system for deep learning
+- High-throughput and low-latency real-time serving systems
+- Applications of transfer learning and meta-learning for high-dimensional, sparse, and imbalanced data
+- Understanding user behavior
+- Large-scale recommendation and retrieval systems
+- Model compression for industrial applications 
+- Auto-machine learning, auto-feature selection
+- Explainable deep learning for high-dimensional, sparse, and imbalanced data
+- Data augmentation and anomaly detection for high-dimensional, sparse, and imbalanced data
+- Generative Adversarial Networks for high-dimensional, sparse, and imbalanced data
+- Leveraging insights from traditional machine learning and data mining approaches for deep learning with high-dimensional, sparse, and imbalanced data
+- Moral and social issues related to the applications of models trained on high-dimensional, sparse, and imbalanced data
+- Other challenges encountered in real-world applications
 
 
 
@@ -61,7 +62,7 @@ A link to the paper submission system will be provided shortly.
 
 All submissions will undergo peer review by the workshop’s program committee. Accepted papers will be chosen based on technical merit, empirical validation, novelty, and suitability to the workshop’s goals.
 
-The workshop aims to provide an engaging platform for dialog that will push the state-of-the-art in deep learning from high-dimensional, sparse, and imbalanced data. To this end, selected papers will be works in progress and propose novel topics and future directions. Work that has already appeared or is scheduled to appear in a journal, workshop, or conference (including KDD 2022) must be significantly extended to be eligible for workshop submission. Work that is currently under review at another venue may be submitted.
+The workshop aims to provide an engaging platform for dialog that will push the state-of-the-art in deep learning from high-dimensional, sparse, and imbalanced data. To this end, selected papers will include long papers, short works-in-progress, novel topics and future directions. Work that has already appeared or is scheduled to appear in a journal, workshop, or conference (including KDD 2022) must be significantly extended to be eligible for workshop submission. Work that is currently under review at another venue may be submitted.
 
 If you have any questions about submissions or our workshop, please contact [*dlpkddworkshop@gmail.com*](mailto:dlpkddworkshop@gmail.com)
 
