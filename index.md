@@ -2,7 +2,18 @@
 
 ## Introduction
 
-In the increasingly digitalized world, it is of utmost importance for various applications to harness the ability to process, understand, and exploit data collected from the Internet. For instance, in customer-centric applications such as personalized recommendation, online advertising, and search engines, interest/intention modeling from customers’ behavioral data can not only significantly enhance user experiences but also greatly contribute to revenues. Recently, we have witnessed that Deep Learning-based approaches began to empower these internet- scale applications by better leveraging the massive data. However, the data in these internet-scale applications are high dimensional and extremely sparse, which makes it different from many applications with dense data such as image classification and speech recognition where Deep Learning-based approaches have been extensively studied. For example, the training samples of a typical click-through rate (CTR) prediction task often involve billions of sparse features, how to mine, model and inference from such data becomes an interesting problem, and how to leverage such data in Deep Learning could be a new research direction. The characteristics of such data pose unique challenges to the adoption of Deep Learning in these applications, including modeling, training, and online serving, etc. More and more communities from both academia and industry have initiated the endeavors to solve these challenges. This workshop will provide a venue for both the research and engineering communities to discuss the challenges, opportunities, and new ideas in the practice of Deep Learning on high-dimensional sparse data.
+In the increasingly digitized world, it is of utmost importance for various applications to harness the ability to process, understand, and exploit data collected from different sources. 
+Recently, we have witnessed that Deep Learning-based approaches began to empower many different applications by better leveraging the massive amount of data.  Examples in customer-centric applications include personalized recommendation, online advertising, and search engines, interest/intention modeling from customers’ behavioral data, which can significantly enhance user experiences while greatly contributing to revenues. 
+However, data generated in real-world domains such as transportation, health, biology, ecology, business, industrial engineering, and internet-scale applications are high dimensional, extremely sparse, and imbalanced. These adverse data properties can severely inhibit the potential of deep learning models, by specifically resulting in poor model performance, failed projects, and potentially serious social implications.
+
+This complexity and diversity in data is different from many applications with dense data such as image classification and speech recognition, where Deep Learning-based approaches have been extensively studied.  
+For example, the training samples of a typical click-through rate (CTR) prediction task often involve billions of sparse features, how to mine, model and inference from such data becomes an interesting problem, and how to leverage such data in Deep Learning could be a new research direction. The characteristics of such data pose unique challenges to the adoption of Deep Learning in these applications, including modeling, training, and online serving, etc. More and more communities from both academia and industry have initiated the endeavors to solve these challenges. 
+This workshop will provide a venue for both the research and engineering communities to discuss the challenges, opportunities, and new ideas in the practice of Deep Learning on high-dimensional, sparse, and imbalanced data. 
+
+These challenges have been widely studied by the traditional machine learning and data mining community, and new techniques have been developed for deep learning. These include methods such as transfer learning, few-shot learning, meta-learning, active learning, data resampling, data generation and augmentation, one-class learning, domain decompositions, etc.. Through the course of this workshop, we will drill into the latest challenges and methodologies whilst reflecting on what the traditional machine learning and data mining researchers can contribute to the advancement of state-of-the-art in deep learning from high-dimensional, sparse, and imbalanced data with adverse properties.  
+
+The workshop will bring together a diverse cross-section of speakers and a wide community of data mining and deep learning researchers and practitioners from academia, industry, and government.
+
 
 ## Previous Editions
 
@@ -25,11 +36,11 @@ Topics include but are not limited to deep learning based network architecture d
 - Large Scale User Response Prediction Modeling
 - Representation Learning for High-Dimensional, Sparse, and Imbalanced Data
 - Multi-domain generalization through Few-Shot Learning and Zero-Shot Learning
-- Embedding techniques, manifold learning and dictionary learning
+- Embedding techniques, Manifold Learning and Dictionary Learning
 - Scalable, Distributed and Parallel Training System for Deep Learning
 - High Throughput and Low Latency Real-Time Serving Systems
 - Applications of Transfer Learning and Meta Learning for High-Dimensional, Sparse, and Imbalanced Data
-- User Behaviour Understanding
+- User Behavior Understanding
 - Large Scale Recommendation and Retrieval Systems
 - Model Compression for Industrial Applications 
 - Auto Machine Learning, Auto feature selection
@@ -39,6 +50,7 @@ Topics include but are not limited to deep learning based network architecture d
 - Leveraging Insights from Traditional Machine Learning and Data Mining Approaches to Deal with High-Dimensional, Sparse, and Imbalanced Data in the Deep Learning World
 - Moral and Social Issues Related to the Applications of Models trained on High-Dimensional, Sparse, and Imbalanced Data
 - Other Challenges Encountered in Real-World Applications
+
 
 ## Call for papers
 
