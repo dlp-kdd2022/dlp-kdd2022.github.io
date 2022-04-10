@@ -48,20 +48,22 @@ Topics include but are not limited to deep learning based network architecture d
 - Other Challenges Encountered in Real-World Applications
 
 
-## Call for papers
 
-Official call for papers page is [https://easychair.org/cfp/dlpkdd2021](https://easychair.org/cfp/dlpkdd2021)
+## Key Dates and Author Instructions
 
-Submissions are invited on describing innovative research on real-world data systems and applications, industrial experiences and identification of challenges that deploy research ideas in practical applications. Work-in-progress papers are also encouraged.
+Please format your papers using the standard KDD 2022 style files. Submissions must be in PDF format and formatted according to the new [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
 
-Full-length papers (up to 9 pages) or extended abstracts (2-4 pages) are welcome. Submissions must be in PDF format and formatted according to the new [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
+In addition to full-length papers (up to 9 pages) describing clear research advances, we encourage the submission of short papers (2-4 pages) that discuss work in progress, new challenges and limitations, and future directions for representations learning to overcome limited and adverse data, along with socially relevant problems, ethical AI and AI safety.
 
-Reviews are not double-blind, and author names and affiliations should be listed. Please use the KDD official guidelines to format your paper.
+Submissions should be anonymized. 
 
-All submissions can be made through EasyChair using the following link: [https://easychair.org/conferences/?conf=dlpkdd2021](https://easychair.org/conferences/?conf=dlpkdd2021) 
+A link to the paper submission system will be provided shortly.
 
-For all the accepted paper, we provide the option that it **could be archived in ACM Digtal Library**. You may see the publication of our first workshop at [https://dl.acm.org/doi/proceedings/10.1145/3326937](https://dl.acm.org/doi/proceedings/10.1145/3326937)
+## Selection Criteria
 
+All submissions will undergo peer review by the workshop’s program committee. Accepted papers will be chosen based on technical merit, empirical validation, novelty, and suitability to the workshop’s goals.
+
+The workshop aims to provide an engaging platform for dialog that will push the state-of-the-art in deep learning from high-dimensional, sparse, and imbalanced data. To this end, selected papers will be works in progress and propose novel topics and future directions. Work that has already appeared or is scheduled to appear in a journal, workshop, or conference (including KDD 2022) must be significantly extended to be eligible for workshop submission. Work that is currently under review at another venue may be submitted.
 
 If you have any questions about submissions or our workshop, please contact [*dlpkddworkshop@gmail.com*](mailto:dlpkddworkshop@gmail.com)
 
