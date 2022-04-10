@@ -2,17 +2,13 @@
 
 ## Introduction
 
-In the increasingly digitized world, it is of utmost importance for various applications to harness the ability to process, understand, and exploit data collected from different sources. 
-Recently, we have witnessed that Deep Learning-based approaches began to empower many different applications by better leveraging the massive amount of data.  Examples in customer-centric applications include personalized recommendation, online advertising, and search engines, interest/intention modeling from customers’ behavioral data, which can significantly enhance user experiences while greatly contributing to revenues. 
+In the increasingly digitized world, it is of utmost importance for various applications to harness the ability to process, understand, and exploit data collected from different sources. Recently, we have witnessed that Deep Learning-based approaches began to empower many different applications by better leveraging the massive amount of data.  Examples in customer-centric applications include personalized recommendation, online advertising, and search engines, interest/intention modeling from customers’ behavioral data, which can significantly enhance user experiences while greatly contributing to revenues. 
 However, data generated in real-world domains such as transportation, health, biology, ecology, business, industrial engineering, and internet-scale applications are high dimensional, extremely sparse, and imbalanced. These adverse data properties can severely inhibit the potential of deep learning models, by specifically resulting in poor model performance, failed projects, and potentially serious social implications.
 
-This complexity and diversity in data is different from many applications with dense data such as image classification and speech recognition, where Deep Learning-based approaches have been extensively studied.  
-For example, the training samples of a typical click-through rate (CTR) prediction task often involve billions of sparse features, how to mine, model and inference from such data becomes an interesting problem, and how to leverage such data in Deep Learning could be a new research direction. The characteristics of such data pose unique challenges to the adoption of Deep Learning in these applications, including modeling, training, and online serving, etc. More and more communities from both academia and industry have initiated the endeavors to solve these challenges. 
+This complexity and diversity in data is different from many applications with dense data such as image classification and speech recognition, where Deep Learning-based approaches have been extensively studied. For example, the training samples of a typical click-through rate (CTR) prediction task often involve billions of sparse features, how to mine, model and inference from such data becomes an interesting problem, and how to leverage such data in Deep Learning could be a new research direction. The characteristics of such data pose unique challenges to the adoption of Deep Learning in these applications, including modeling, training, and online serving, etc. More and more communities from both academia and industry have initiated the endeavors to solve these challenges. 
 This workshop will provide a venue for both the research and engineering communities to discuss the challenges, opportunities, and new ideas in the practice of Deep Learning on high-dimensional, sparse, and imbalanced data. 
 
-These challenges have been widely studied by the traditional machine learning and data mining community, and new techniques have been developed for deep learning. These include methods such as transfer learning, few-shot learning, meta-learning, active learning, data resampling, data generation and augmentation, one-class learning, domain decompositions, etc.. Through the course of this workshop, we will drill into the latest challenges and methodologies whilst reflecting on what the traditional machine learning and data mining researchers can contribute to the advancement of state-of-the-art in deep learning from high-dimensional, sparse, and imbalanced data with adverse properties.  
-
-The workshop will bring together a diverse cross-section of speakers and a wide community of data mining and deep learning researchers and practitioners from academia, industry, and government.
+These challenges have been widely studied by the traditional machine learning and data mining community, and new techniques have been developed for deep learning. These include methods such as transfer learning, few-shot learning, meta-learning, active learning, data resampling, data generation and augmentation, one-class learning, domain decompositions, etc.. Through the course of this workshop, we will drill into the latest challenges and methodologies whilst reflecting on what the traditional machine learning and data mining researchers can contribute to the advancement of state-of-the-art in deep learning from high-dimensional, sparse, and imbalanced data with adverse properties. The workshop will bring together a diverse cross-section of speakers and a wide community of data mining and deep learning researchers and practitioners from academia, industry, and government.
 
 
 ## Previous Editions
@@ -101,8 +97,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>colin.bellinger@nrc-cnrc.gc.ca</div>
 </div>
 
-
-
 <div class="photo">
   <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">
   <img src="assets/img/zxq.jpeg" class="shake shake-little" />
@@ -111,6 +105,16 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Tech Lead of advertising group</div>
   <div>Alibaba</div>
 </div>
+
+
+<div class="photo">
+  <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">
+  <img src="assets/img/lkc.jpeg" class="shake shake-little" />
+  </a><br />
+   <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">Kuang-chih Lee</a>
+  <div>Tech Lead of business intelligence group, AliExpress</div>
+  </div>
+  
   
 <div class="photo">
   <a href="https://paobranco.github.io">
@@ -122,24 +126,6 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>pbranco@uottawa.ca</div>
 </div>
   
-<div class="photo">
-  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
-  <img src="assets/img/nathalie.jpeg" class="shake shake-little">
-  </a><br>
-  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">Nathalie Japkowicz</a>
-  <div>Professor</div>
-  <div>American University, Washington D.C., USA</div>
-  <div>japkowic@american.edu</div>
-</div>
-
-
-<div class="photo">
-  <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">
-  <img src="assets/img/lkc.jpeg" class="shake shake-little" />
-  </a><br />
-   <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">Kuang-chih Lee</a>
-  <div>Tech Lead of business intelligence group, AliExpress</div>
-  </div>
 
 <div class="photo">
   <a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&amp;hl=en">
@@ -150,6 +136,15 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Alibaba</div>
   </div>
 
+<div class="photo">
+  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
+  <img src="assets/img/nathalie.jpeg" class="shake shake-little">
+  </a><br>
+  <a href="https://www.american.edu/cas/faculty/japkowic.cfm">Nathalie Japkowicz</a>
+  <div>Professor</div>
+  <div>American University, Washington D.C., USA</div>
+  <div>japkowic@american.edu</div>
+</div>
 
 <div class="photo">
   <a href="http://wzhe.me/">
