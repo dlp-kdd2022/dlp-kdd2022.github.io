@@ -71,7 +71,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="http://byeah.github.io">
-  <img src="assets/img/jby.jpeg" class="shake shake-little" />
+  <img src="assets/img/jby.jpeg" />
   </a><br />
   <a href="http://byeah.github.io">Biye Jiang</a>
   <div>Algorithm expert of advertising group</div>
