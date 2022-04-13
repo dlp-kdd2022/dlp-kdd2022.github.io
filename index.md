@@ -80,7 +80,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">
-  <img src="assets/img/roberto.jpg" class="shake shake-little">
+  <img src="assets/img/roberto.jpg" >
   </a><br>
   <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">Roberto Corizzo</a>
   <div>Assistant Professor</div>
@@ -90,7 +90,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">
-  <img src="assets/img/zxq.jpeg" class="shake shake-little" />
+  <img src="assets/img/zxq.jpeg"  />
   </a><br />
   <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">Xiaoqiang Zhu</a>
   <div>Tech Lead of advertising group</div>
@@ -99,7 +99,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
     
 <div class="photo">
   <a href="https://web.cs.dal.ca/~bellinger/">
-  <img src="assets/img/cb.jpeg" class="shake shake-little">
+  <img src="assets/img/cb.jpeg" >
   </a><br>
   <a href="https://web.cs.dal.ca/~bellinger/">Colin Bellinger</a>
   <div>AI Researcher</div>
@@ -109,7 +109,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">
-  <img src="assets/img/lkc.jpeg" class="shake shake-little" />
+  <img src="assets/img/lkc.jpeg" />
   </a><br />
    <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">Kuang-chih Lee</a>
   <div>Tech Lead of business intelligence group, AliExpress</div>
@@ -118,7 +118,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   
 <div class="photo">
   <a href="https://paobranco.github.io">
-  <img src="assets/img/paula.jpg" class="shake shake-little">
+  <img src="assets/img/paula.jpg">
   </a><br>
   <a href="hhttps://paobranco.github.io">Paula Branco</a>
   <div>Assistant Professor</div>
@@ -129,7 +129,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&amp;hl=en">
-  <img src="assets/img/zgr.jpeg" class="shake shake-little" />
+  <img src="assets/img/zgr.jpeg" />
   </a><br />
 <a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&amp;hl=en">Guorui Zhou</a>
   <div>Senior Algorithm expert of advertising group</div>
@@ -138,7 +138,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
-  <img src="assets/img/nathalie.jpeg" class="shake shake-little">
+  <img src="assets/img/nathalie.jpeg" >
   </a><br>
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">Nathalie Japkowicz</a>
   <div>Professor</div>
@@ -148,7 +148,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="http://wzhe.me/">
-    <img src="assets/img/wz.jpg" class="shake shake-little" />
+    <img src="assets/img/wz.jpg"  />
   </a><br />
   <a href="http://wzhe.me/">Zhe Wang</a>
   <div>Tech Lead</div>
@@ -157,7 +157,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="http://www.saying.ren/">
-    <img src="assets/img/rk.jpg" class="shake shake-little" />
+    <img src="assets/img/rk.jpg"  />
   </a><br />
   <a href="http://www.saying.ren/">Kan Ren</a>
   <div>Microsoft Research</div>
@@ -165,7 +165,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="http://ir.aiqingyao.org/home">
-    <img src="assets/img/aqy.jpg" class="shake shake-little" />
+    <img src="assets/img/aqy.jpg"  />
   </a><br />
   <a href="http://ir.aiqingyao.org/home">Qingyao Ai</a>
   <div>Assistant Professor</div>
@@ -174,7 +174,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="http://wnzhang.net">
-    <img src="assets/img/zwn.png" class="shake shake-little" />
+    <img src="assets/img/zwn.png"  />
   </a><br />
   <a href="http://wnzhang.net">Weinan Zhang</a>
   <div>Associate Professor</div>
@@ -186,7 +186,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   
 <div class="photo">
   <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&amp;hl=en">
-    <img src="assets/img/trm.jpeg" class="shake shake-little" />
+    <img src="assets/img/trm.jpeg" />
   </a><br />
   <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&amp;hl=en">Ruiming Tang</a>
   <div>Senior Researcher</div>
