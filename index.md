@@ -56,6 +56,9 @@ In addition to full-length papers (up to 9 pages) describing clear research adva
 
 Submissions should be anonymized. 
 
+## Submission System
+<a href="https://cmt3.research.microsoft.com/DLPKDD2022/">https://cmt3.research.microsoft.com/DLPKDD2022/</a>
+
 A link to the paper submission system will be provided shortly.
 
 ## Selection Criteria
