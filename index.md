@@ -64,19 +64,11 @@ All submissions will undergo peer review by the workshop’s program committee. 
 
 The workshop aims to provide an engaging platform for dialog that will push the state-of-the-art in deep learning from high-dimensional, sparse, and imbalanced data. To this end, selected papers will include long papers, short works-in-progress, novel topics and future directions. Work that has already appeared or is scheduled to appear in a journal, workshop, or conference (including KDD 2022) must be significantly extended to be eligible for workshop submission. Work that is currently under review at another venue may be submitted.
 
-If you have any questions about submissions or our workshop, please contact [*dlpkddworkshop@gmail.com*](mailto:dlpkddworkshop@gmail.com)
+If you have any questions about submissions or our workshop, please contact [*dlpkdd2022@hotmail.com*](mailto:dlpkdd2022@hotmail.com)
 
 ## Workshop Chairs
 
 
-<div class="photo">
-  <a href="http://byeah.github.io">
-  <img src="assets/img/jby.jpeg" class="shake shake-little" />
-  </a><br />
-  <a href="http://byeah.github.io">Biye Jiang</a>
-  <div>Algorithm expert of advertising group</div>
-  <div>Alibaba</div>
-</div>
 
 <div class="photo">
   <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">
@@ -89,13 +81,15 @@ If you have any questions about submissions or our workshop, please contact [*dl
 </div>
 
 <div class="photo">
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">
-  <img src="assets/img/zxq.jpeg" class="shake shake-little" />
+  <a href="">
+    <img src="assets/img/gjf.png" class="shake shake-little" />
   </a><br />
-  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">Xiaoqiang Zhu</a>
-  <div>Tech Lead of advertising group</div>
-  <div>Alibaba</div>
-</div>
+  <a href="">Junfeng Ge</a>
+  <div>Senior staff algorithm engineer</div>
+  <div>Alibaba Group</div>
+  </div>
+
+
     
 <div class="photo">
   <a href="https://web.cs.dal.ca/~bellinger/">
@@ -108,13 +102,15 @@ If you have any questions about submissions or our workshop, please contact [*dl
 </div>
 
 <div class="photo">
-  <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">
-  <img src="assets/img/lkc.jpeg" class="shake shake-little" />
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">
+  <img src="assets/img/zxq.jpeg" class="shake shake-little" />
   </a><br />
-   <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ&amp;hl=en">Kuang-chih Lee</a>
-  <div>Tech Lead of business intelligence group, AliExpress</div>
-  </div>
-  
+  <a href="https://scholar.google.com/citations?user=eUMnOc0AAAAJ&amp;hl=en">Xiaoqiang Zhu</a>
+  <div>Chief AI Officer</div>
+  <div>Mobvista Group</div>
+</div>
+
+
   
 <div class="photo">
   <a href="https://paobranco.github.io">
@@ -128,13 +124,14 @@ If you have any questions about submissions or our workshop, please contact [*dl
   
 
 <div class="photo">
-  <a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&amp;hl=en">
-  <img src="assets/img/zgr.jpeg" class="shake shake-little" />
+  <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ">
+  <img src="assets/img/lkc.jpeg" class="shake shake-little" />
   </a><br />
-<a href="https://scholar.google.com/citations?user=n_E0Bg4AAAAJ&amp;hl=en">Guorui Zhou</a>
-  <div>Senior Algorithm expert of advertising group</div>
-  <div>Alibaba</div>
+   <a href="https://scholar.google.com/citations?user=r9JOIloAAAAJ">Kuang-chih Lee</a>
+  <div>Tech Lead of business intelligence group, AliExpress</div>
   </div>
+  
+
 
 <div class="photo">
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
@@ -147,29 +144,49 @@ If you have any questions about submissions or our workshop, please contact [*dl
 </div>
 
 <div class="photo">
-  <a href="http://wzhe.me/">
-    <img src="assets/img/wz.jpg" class="shake shake-little" />
+  <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&amp;hl=en">
+    <img src="assets/img/trm.jpeg" class="shake shake-little" />
   </a><br />
-  <a href="http://wzhe.me/">Zhe Wang</a>
-  <div>Tech Lead</div>
-  <div>Recommendation group, Roku</div>
+  <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&amp;hl=en">Ruiming Tang</a>
+  <div>Director of recommendation and search</div>
+  <div>Huawei Noah Ark Lab</div>
   </div>
 
 <div class="photo">
-  <a href="http://www.saying.ren/">
-    <img src="assets/img/rk.jpg" class="shake shake-little" />
+  <a href="https://scholar.google.com/citations?user=mXN0KTIAAAAJ">
+    <img src="assets/img/zt.jpg" class="shake shake-little" />
   </a><br />
-  <a href="http://www.saying.ren/">Kan Ren</a>
-  <div>Microsoft Research</div>
+  <a href="https://scholar.google.com/citations?user=mXN0KTIAAAAJ">Tao Zhuang</a>
+  <div> Senior staff engineer</div>
+  <div> Alibaba Group</div>
   </div>
 
+
 <div class="photo">
-  <a href="http://ir.aiqingyao.org/home">
-    <img src="assets/img/aqy.jpg" class="shake shake-little" />
+  <a href="https://scholar.google.com/citations?user=kAT8BcIAAAAJ">
+    <img src="assets/img/zh.jpg" class="shake shake-little" />
   </a><br />
-  <a href="http://ir.aiqingyao.org/home">Qingyao Ai</a>
+  <a href="https://scholar.google.com/citations?user=kAT8BcIAAAAJ">Han Zhu</a>
+  <div>Staff Engineer</div>
+  <div>Alibaba Group</div>
+  </div>
+
+  <div class="photo">
+  <a href="http://byeah.github.io">
+  <img src="assets/img/jby.jpeg" class="shake shake-little" />
+  </a><br />
+  <a href="http://byeah.github.io">Biye Jiang</a>
+  <div>Staff Engineer</div>
+  <div>Alibaba Group</div>
+</div>
+
+<div class="photo">
+  <a href="https://scholar.google.com/citations?user=DDXcKKcAAAAJ">
+    <img src="assets/img/mjx.jpeg" class="shake shake-little" />
+  </a><br />
+  <a href="https://scholar.google.com/citations?user=DDXcKKcAAAAJ">Jiaxin Mao</a>
   <div>Assistant Professor</div>
-  <div>University of Utah</div>
+  <div>Renmin University of China</div>
   </div>
 
 <div class="photo">
@@ -180,21 +197,10 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <div>Associate Professor</div>
   <div>Shanghai Jiao Tong University</div>
   </div>
+  
 
-<div class="photo">
-</div>
-  
-<div class="photo">
-  <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&amp;hl=en">
-    <img src="assets/img/trm.jpeg" class="shake shake-little" />
-  </a><br />
-  <a href="https://scholar.google.com/citations?user=fUtHww0AAAAJ&amp;hl=en">Ruiming Tang</a>
-  <div>Senior Researcher</div>
-  <div>Huawei Noah Ark Lab</div>
-  </div>
-  
-<div class="photo">
-</div>
+
+<img src="assets/img/bg.png"/>
 
 ## Program Committee
 To be defined. 
