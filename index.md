@@ -56,6 +56,9 @@ In addition to full-length papers (up to 9 pages) describing clear research adva
 
 Submissions should be anonymized. 
 
+## Submission System
+<a href="https://cmt3.research.microsoft.com/DLPKDD2022/">https://cmt3.research.microsoft.com/DLPKDD2022/</a>
+
 A link to the paper submission system will be provided shortly.
 
 ## Selection Criteria
@@ -72,7 +75,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">
-  <img src="assets/img/roberto.jpg" class="shake shake-little">
+  <img src="assets/img/roberto.jpg" >
   </a><br>
   <a href="https://www.american.edu/cas/faculty/rcorizzo.cfm">Roberto Corizzo</a>
   <div>Assistant Professor</div>
@@ -93,7 +96,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
     
 <div class="photo">
   <a href="https://web.cs.dal.ca/~bellinger/">
-  <img src="assets/img/cb.jpeg" class="shake shake-little">
+  <img src="assets/img/cb.jpeg" >
   </a><br>
   <a href="https://web.cs.dal.ca/~bellinger/">Colin Bellinger</a>
   <div>AI Researcher</div>
@@ -114,7 +117,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
   
 <div class="photo">
   <a href="https://paobranco.github.io">
-  <img src="assets/img/paula.jpg" class="shake shake-little">
+  <img src="assets/img/paula.jpg">
   </a><br>
   <a href="hhttps://paobranco.github.io">Paula Branco</a>
   <div>Assistant Professor</div>
@@ -135,7 +138,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">
-  <img src="assets/img/nathalie.jpeg" class="shake shake-little">
+  <img src="assets/img/nathalie.jpeg" >
   </a><br>
   <a href="https://www.american.edu/cas/faculty/japkowic.cfm">Nathalie Japkowicz</a>
   <div>Professor</div>
@@ -191,7 +194,7 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 <div class="photo">
   <a href="http://wnzhang.net">
-    <img src="assets/img/zwn.png" class="shake shake-little" />
+    <img src="assets/img/zwn.png"  />
   </a><br />
   <a href="http://wnzhang.net">Weinan Zhang</a>
   <div>Associate Professor</div>
