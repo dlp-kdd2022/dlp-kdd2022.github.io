@@ -20,8 +20,8 @@ Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https:
 ## Important Dates
 
 - Submission deadline:  May 26, 2022 23:59 anywhere on earth
-- Acceptance notification: June 20 2022.
-- Workshop date: August 15, 2022   
+- Acceptance notification: June 24 2022.
+- Workshop date: August 14, 2022   
 
 
 ## Topics of Interest
