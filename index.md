@@ -206,34 +206,59 @@ If you have any questions about submissions or our workshop, please contact [*dl
 
 ## Program Committee
 Abhishek Gupta,	UC Berkeley			
+
 Alberto Cano,	Virginia Commonwealth University			
+
 Bartosz Krawczyk,	Virginia Commonwealth University			
+
 Constantine Dovrolis,	Georgia Tech			
+
 Denis Gudovskiy,	Panasonic			
+
 Dino Ienco,	IRSTEA			
+
 Eftim Zdravevski,	Faculty of Computer Science and Engineering	 Ss Cyril and Methodius University	 Skopje	 North Macedonia
+
 Evan Crothers,	University of Ottawa			
+
 Gianvito Pio,	University of Bari			
+
 Herna Viktor,	University of Ottawa			
+
 James Smith,	Georgia Institute of Technology			
+
 Jeffrey Ling				
+
 Jie Gao,	Rutgers University			
+
 Joao Gama,	INESC TEC - LIAAD			
+
 Massimiliano Altieri,	University of Bari			
-Michal Wozniak,	Wroclaw University of Science and Technology			
+
+Michal Wozniak,	Wroclaw University of Science and Technology		
+
 Michelangelo, Ceci	University of Bari			
+
 Mikel Galar,	Universidad Pública de Navarra			
+
 Nuno Moniz,	INESC TEC & University of Porto	 Portugal		
+
 Rita Ribeiro,	Porto	 Portugal		
+
 Roberto Alejo,	Tecnologico de Estudios Superiores de Jocotitlan			
+
 Ronaldo Prati,	UFABC		
+
 Salvador García,	Universidad de Granada			
+
 Taghi Khoshgaftaar,	Florida Atlantic University	 USA		
+
 Tailin Wu,	MIT			
+
 Zois Boukouvalas,	American University			
+
 Zsolt Kira,	Georgia Institute of Technology			
 
-<img width="494" alt="image" src="https://user-images.githubusercontent.com/26642585/175779953-2abf7b84-fd6f-4566-91ff-b19c3c704378.png">
 
 
 ## Sponsor
