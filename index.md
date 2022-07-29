@@ -88,7 +88,7 @@ The topics of interest include, but are not limited to, the following:
 
 - Paper 15:	**Ask Me What You Need: Product Retrieval using Knowledge from GPT-3** [Paper](accepted_papers/dlp-kdd2022_paper15). Su Young Kim, Clova AI Research, NAVER Corp.; Hyeonjin Park, Korea university; Kyuyong Shin, NAVER AI Lab, NAVER Corp.; Kyung-Min Kim, Clova AI Research, NAVER Corp..
 
-- Paper 22:	**Towards an Efficient ML System: Unveiling a Trade-off between Task Accuracy and Engineering Efficiency in a Large-scale Car Sharing Platform** [Paper](accepted_paper/dlp-kdd2022_paper22). Kyung Ho Park, SOCAR AI Research; Hyunhee Chung, SOCAR; Soonwoo Kwon, Socar.
+- Paper 22:	**Towards an Efficient ML System: Unveiling a Trade-off between Task Accuracy and Engineering Efficiency in a Large-scale Car Sharing Platform** [Paper](accepted_papers/dlp-kdd2022_paper22). Kyung Ho Park, SOCAR AI Research; Hyunhee Chung, SOCAR; Soonwoo Kwon, Socar.
 
 - Paper 23:	**DynInt: Dynamic Interaction Modeling for Large-scale Click-Through Rate Prediction**	[Paper](accepted_papers/dlp-kdd2022_paper23). YACHEN YAN, Credit Karma; Liubo Li, Credit Karma.
 
