@@ -48,17 +48,31 @@ The topics of interest include, but are not limited to, the following:
 
 ## Invited Speakers
 
-TBA
+- TBA
 
 ## Workshop Schedule 
 
-TBA
+
+|       Time (EST)             | Event                             |
+|------------------------------|-----------------------------------|
+|        **Morning session**   |                                   |
+|8:00 am - 12:00 pm            |	TBA                              |
+|        **Afternoon session** |                                   |
+|12:40 pm - 1:00 pm            |	Welcome and Introduction         |
+|1:00 pm - 1:40 pm	           |	Keynote 1                        | 
+|1:40 pm - 2:40 pm	           |	Paper Session (4 Paper Talks)    |
+|2:40 pm - 3:20 pm	           |	Break + Poster Session (9 papers)|
+|3:20 pm - 4:00 pm	           |	Keynote 2                        |
+|4:00 pm - 4:40 pm	           |	Keynote 3                        |
+|4:40 pm - 5:10 pm	           |	Panel Discussion (Round Table)   |
+|5:10 pm - 5:15 pm	           |	Closing                          |
+
 
 ## Accepted Papers
 
 ### Morning Session
 
-TBA
+- TBA
 
 ### Afternoon Session
 
@@ -78,7 +92,7 @@ TBA
 
 - Paper 23:	**DynInt: Dynamic Interaction Modeling for Large-scale Click-Through Rate Prediction**	[Paper](accepted_paper/dlp-kdd2022_paper23). YACHEN YAN, Credit Karma; Liubo Li, Credit Karma.
 
--Paper 26:	**DHEN: A Deep and Hierarchical Ensemble Network for Large-Scale Click-Through Rate Prediction** [Paper](accepted_paper/dlp-kdd2022_paper26). Buyun Zhang, Meta; Liang Luo, University of Washington; Xi Liu, Meta Platforms, Inc.; Jay Li, Meta; Zeliang Chen, Facebook, Inc.; Weilin Zhang, Meta Platforms, Inc.; Xiaohan Wei, Facebook; Yuchen Hao, Meta; Michael Y Tsang, Meta Platforms, Inc.; Wenjun Wang, Meta; Yang Liu, Meta Platform Inc.; Mengyue Hang, Meta; Renqin Cai, Meta; Chaofei Yang, Meta.; Yiqun Liu, Facebook; Sihan Zeng, Meta; Rui Zhang, Meta; Xiaocong Du, Meta; Huayu Li, Meta; Yasmine Badr, Meta Platforms; Jongsoo Park, Facebook, Inc.; Jiyan Yang, Facebook Inc.; Dheevatsa Mudigere, Facebook; Ellie Wen, Facebook.
+- Paper 26:	**DHEN: A Deep and Hierarchical Ensemble Network for Large-Scale Click-Through Rate Prediction** [Paper](accepted_paper/dlp-kdd2022_paper26). Buyun Zhang, Meta; Liang Luo, University of Washington; Xi Liu, Meta Platforms, Inc.; Jay Li, Meta; Zeliang Chen, Facebook, Inc.; Weilin Zhang, Meta Platforms, Inc.; Xiaohan Wei, Facebook; Yuchen Hao, Meta; Michael Y Tsang, Meta Platforms, Inc.; Wenjun Wang, Meta; Yang Liu, Meta Platform Inc.; Mengyue Hang, Meta; Renqin Cai, Meta; Chaofei Yang, Meta.; Yiqun Liu, Facebook; Sihan Zeng, Meta; Rui Zhang, Meta; Xiaocong Du, Meta; Huayu Li, Meta; Yasmine Badr, Meta Platforms; Jongsoo Park, Facebook, Inc.; Jiyan Yang, Facebook Inc.; Dheevatsa Mudigere, Facebook; Ellie Wen, Facebook.
 
 
 
