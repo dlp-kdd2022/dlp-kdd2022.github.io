@@ -8,24 +8,36 @@ The complexities explored here are different from many traditional deep learning
 
 These challenges have been widely studied by the traditional machine learning and data mining community, and new techniques have been developed for deep learning. These include methods such as transfer learning, few-shot learning, meta-learning, active learning, data resampling, data generation and augmentation, one-class learning, domain decompositions, etc.. Through the course of this workshop, we will drill into the latest challenges and methodologies whilst reflecting on what the traditional machine learning and data mining researchers can contribute to the advancement of state-of-the-art in deep learning from high-dimensional, sparse, and imbalanced data with adverse properties. The workshop will bring together a diverse cross-section of speakers and a wide community of data mining and deep learning researchers and practitioners from academia, industry, and government.
 
-
-## Previous Editions
-
-Website for dlp-kdd2021 can be found **[<b style="color:red"> here </b>](https://dlp-kdd.github.io/)**
-
-Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https://s2d-olad.github.io/)**
-
-
-
 ## Important Dates
 
 - Submission deadline:  May 26, 2022 23:59 anywhere on earth
 - Acceptance notification: June 24 2022.
 - Workshop date: August 14, 2022
 
-  - Morning topics: High-Dimensional and sparse data
+  - Morning topics (8:00 am - 12:00 pm): High-Dimensional and sparse data
 
-  - Afternoon topics: Imbalance and deep learning    
+  - Afternoon topics (12:40 pm - 5:15 pm): Imbalance and deep learning    
+
+## Invited Speakers
+
+### Morning session:
+
+- TBA
+
+### Afternoon session:
+
+- **[Nitesh Chawla](https://niteshchawla.nd.edu):** Frank M. Freimann Professor of Computer Science & Engineering and Director of Lucy Family Institute for Data and Society at the University of Notre Dame
+
+- **[Bartosz Krawczyk](http://www.egr.vcu.edu/directory/bartosz.krawczykphd/):** Assistant Professor of Computer Science, Virginia Commonwealth University, USA
+
+- **[Mohak Shah](http://www.mohakshah.com):** CTO of Gauss Labs
+
+
+## Previous Editions
+
+Website for dlp-kdd2021 can be found **[<b style="color:red"> here </b>](https://dlp-kdd.github.io/)**
+
+Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https://s2d-olad.github.io/)**
 
 
 ## Topics of Interest
@@ -50,19 +62,7 @@ The topics of interest include, but are not limited to, the following:
 - Moral and social issues related to the applications of models trained on high-dimensional, sparse, and imbalanced data
 - Other challenges encountered in real-world applications
 
-## Invited Speakers
 
-### Morning session:
-
-- TBA
-
-### Afternoon session:
-
-- **[Nitesh Chawla](https://niteshchawla.nd.edu):** Frank M. Freimann Professor of Computer Science & Engineering and Director of Lucy Family Institute for Data and Society at the University of Notre Dame
-
-- **[Bartosz Krawczyk](http://www.egr.vcu.edu/directory/bartosz.krawczykphd/):** Assistant Professor of Computer Science, Virginia Commonwealth University, USA
-
-- **[Mohak Shah](http://www.mohakshah.com):** CTO of Gauss Labs
 
 
 ## Workshop Schedule 
