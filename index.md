@@ -21,7 +21,9 @@ Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https:
 
 - Submission deadline:  May 26, 2022 23:59 anywhere on earth
 - Acceptance notification: June 24 2022.
-- Workshop date: August 14, 2022   
+- Workshop date: August 14, 2022
+-- Morning session: High-Dimensional and sparse data
+-- Afternoon topics: Imbalance and deep learning    
 
 
 ## Topics of Interest
@@ -48,7 +50,18 @@ The topics of interest include, but are not limited to, the following:
 
 ## Invited Speakers
 
+### Morning session:
+
 - TBA
+
+### Afternoon session:
+
+- **[Nitesh Chawla](https://niteshchawla.nd.edu):** Frank M. Freimann Professor of Computer Science & Engineering and Director of Lucy Family Institute for Data and Society at the University of Notre Dame
+
+- **[Bartosz Krawczyk](http://www.egr.vcu.edu/directory/bartosz.krawczykphd/):** Assistant Professor of Computer Science, Virginia Commonwealth University, USA
+
+- **[Mohak Shah](http://www.mohakshah.com):** CTO of Gauss Labs
+
 
 ## Workshop Schedule 
 
@@ -59,11 +72,11 @@ The topics of interest include, but are not limited to, the following:
 |8:00 am - 12:00 pm            |	TBA                              |
 |        **Afternoon session** |                                   |
 |12:40 pm - 1:00 pm            |	Welcome and Introduction         |
-|1:00 pm - 1:40 pm	           |	Keynote 1                        | 
+|1:00 pm - 1:40 pm	           |	Keynote 1: Bartosz Krawczyk      | 
 |1:40 pm - 2:40 pm	           |	Paper Session (4 Paper Talks)    |
 |2:40 pm - 3:20 pm	           |	Break + Poster Session (9 papers)|
-|3:20 pm - 4:00 pm	           |	Keynote 2                        |
-|4:00 pm - 4:40 pm	           |	Keynote 3                        |
+|3:20 pm - 4:00 pm	           |	Keynote 2: Mohak Shah            |
+|4:00 pm - 4:40 pm	           |	Keynote 3: Nitesh Chawla         |
 |4:40 pm - 5:10 pm	           |	Panel Discussion (Round Table)   |
 |5:10 pm - 5:15 pm	           |	Closing                          |
 
