@@ -30,7 +30,7 @@ These challenges have been widely studied by the traditional machine learning an
 
 - **[Bartosz Krawczyk](http://www.egr.vcu.edu/directory/bartosz.krawczykphd/):** Assistant Professor of Computer Science, Virginia Commonwealth University, USA
 
-- **[Mohak Shah](http://www.mohakshah.com):** CTO of Gauss Labs
+- **[Mohak Shah](http://www.mohakshah.com):** CTO of Gauss Labs, San Fransisco, USA
 
 ## Workshop Schedule 
 
