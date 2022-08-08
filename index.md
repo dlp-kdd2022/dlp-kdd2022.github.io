@@ -23,9 +23,9 @@ Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https:
 - Acceptance notification: June 24 2022.
 - Workshop date: August 14, 2022
 
--- Morning session: High-Dimensional and sparse data
+  - Morning session: High-Dimensional and sparse data
 
--- Afternoon topics: Imbalance and deep learning    
+  - Afternoon topics: Imbalance and deep learning    
 
 
 ## Topics of Interest
