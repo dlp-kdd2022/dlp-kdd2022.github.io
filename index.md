@@ -131,7 +131,7 @@ Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https:
 
 <div class="photo">
   <a href="[http://wnzhang.net](https://kdd.org/kdd2022/)">
-    <img src="assets/img/KDD22_webbanner.jpg" width="400" />
+    <img src="assets/img/KDD22_webbanner.jpg" width="1200" />
   </a><br />
   <div> </div>
   <div> </div>
