@@ -129,14 +129,11 @@ Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https:
 
 ## SIGKDD 2022 Information
 
-<div class="photo">
   <a href="[http://wnzhang.net](https://kdd.org/kdd2022/)">
     <img src="assets/img/KDD22_webbanner.jpg" width="1200" />
   </a><br />
-  <div> See the SIGKDD 2022 website for more details on the workshop location and times, along with the full schedule and list of invited speakers.</div>
-  <div> </div>
-  <div> </div>
- </div><br />
+  See the SIGKDD 2022 website for more details on the workshop location and times, along with the full schedule and list of invited speakers.</div>
+  <br />
 
 
 ## Workshop Chairs
