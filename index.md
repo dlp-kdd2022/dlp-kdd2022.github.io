@@ -1,4 +1,5 @@
 
+![alt text]([https://github.com/dlp-kdd2022/dlp-kdd2022.github.io/blob/master/assets/img/KDD22_webbanner.jpg])
 
 ## Introduction
 
