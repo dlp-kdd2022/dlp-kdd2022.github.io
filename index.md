@@ -129,8 +129,14 @@ Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https:
 
 ## SIGKDD 2022 Information
 
-[[SIGKDD Page]("assets/img/KDD22_webbanner.jpg")]([docs/CONTRIBUTING.md](https://kdd.org/kdd2022/))
-
+<div class="photo">
+  <a href="[http://wnzhang.net](https://kdd.org/kdd2022/)">
+    <img src="assets/img/KDD22_webbanner.jpg"  />
+  </a><br />
+  <div> </div>
+  <div> </div>
+  <div> </div>
+ </div>
 
 ## Workshop Chairs
 
