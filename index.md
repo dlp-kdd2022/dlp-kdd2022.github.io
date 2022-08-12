@@ -1,7 +1,5 @@
 
-![alt text]([https://github.com/dlp-kdd2022/dlp-kdd2022.github.io/blob/master/assets/img/KDD22_webbanner.jpg])
-
-## Introduction
+## DLP-KDD2022 Introduction
 
 In the increasingly digitized world, applications in a wide varity of domains are shifting to harness the ability to process, understand, and exploit data collected from different sources. Deep learning-based methods, in particularly, have recently empowered many applications to leveraging their data. This incluses examples from customer-centric applications, such as personalized recommendations, online advertising, search engines and interest/intention modeling from customers’ behavior. In these applications, leveraging deep learning tools can significantly enhance the user's experience while increasing revenues. Data generated in customer-centric applications and other critical real-world domains such as health and medicine, biology, business, industrial engineering, _etc_ are often high-dimensional, sparse and imbalanced. These adverse data properties challenge the application of deep learning in real-world applications due to the fact that they can cause poor model performance, failed projects, and potentially serious social implications.
 
@@ -129,9 +127,15 @@ Website for dlp-kdd2021 can be found **[<b style="color:red"> here </b>](https:/
 
 Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https://s2d-olad.github.io/)**
 
+## SIGKDD 2022
+
+<div class="photo">
+  <a href="https://kdd.org/kdd2022/">
+  <img src="assets/img/KDD22_webbanner.jpg" >
+  </a>
+</div>
 
 ## Workshop Chairs
-
 
 
 <div class="photo">
