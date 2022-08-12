@@ -127,13 +127,19 @@ Website for dlp-kdd2021 can be found **[<b style="color:red"> here </b>](https:/
 
 Website for s2d-olad2021 can be found **[<b style="color:red"> here </b>](https://s2d-olad.github.io/)**
 
-## SIGKDD 2022
+## SIGKDD 2022 Information
 
 <div class="photo">
   <a href="https://kdd.org/kdd2022/">
   <img src="assets/img/KDD22_webbanner.jpg" >
-  </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  </a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
+
+
+
+
+
+
 
 
 ## Workshop Chairs
