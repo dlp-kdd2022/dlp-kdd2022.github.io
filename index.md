@@ -42,7 +42,20 @@ These challenges have been widely studied by the traditional machine learning an
 |12:40 pm - 1:00 pm            |	Welcome and Introduction         |
 |1:00 pm - 1:40 pm	           |	Keynote 1: Bartosz Krawczyk      | 
 |1:40 pm - 2:40 pm	           |	Paper Session (4 Paper Talks)    |
+|                              |  Unsupervised Cross-Domain Conditional Generation via Normalizing Flows and Adversarial Training, Hari Prasanna Das  |
+|                              |  De-biasing training data distribution using targeted data enrichment techniques, Dieu Thu Le |
+|                              |  Self-supervised Learning for Hyperspectral Images of Trees, Moqsadur Rahman |
+|                              |  DHEN: A Deep and Hierarchical Ensemble Network for Large-Scale Click-Through Rate Prediction,  Buyun Zhang |
 |2:40 pm - 3:20 pm	           |	Break + Poster Session (9 papers)|
+|                              | Ask Me What You Need: Product Retrieval using Knowledge from GPT-3, Su Young Kim |
+|                              | Conditional Synthetic Data Generation for Personal Thermal Comfort Models, Hari Prasanna Das |
+|                              | CNN Algorithms for Standoff Detection of Trace Explosives, Eric Yao |
+|                              | Towards an Efficient ML System: Unveiling a Trade-off between Task Accuracy and Engineering Efficiency in a Large-scale Car Sharing Platform, Kyung Ho Park |
+|                              | DynInt: Dynamic Interaction Modeling for Large-scale Click-Through Rate Prediction, Yachen Yan |
+|                              |  Unsupervised Cross-Domain Conditional Generation via Normalizing Flows and Adversarial Training, Hari Prasanna Das  |
+|                              |  De-biasing training data distribution using targeted data enrichment techniques, Dieu Thu Le |
+|                              |  Self-supervised Learning for Hyperspectral Images of Trees, Moqsadur Rahman |
+|                              |  DHEN: A Deep and Hierarchical Ensemble Network for Large-Scale Click-Through Rate Prediction,  Buyun Zhang |
 |3:20 pm - 4:00 pm	           |	Keynote 2: Mohak Shah            |
 |4:00 pm - 4:40 pm	           |	Keynote 3: Nitesh Chawla         |
 |4:40 pm - 5:10 pm	           |	Panel Discussion (Round Table)   |
