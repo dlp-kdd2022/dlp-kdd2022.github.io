@@ -11,7 +11,7 @@ These challenges have been widely studied by the traditional machine learning an
 
 - Submission deadline:  May 26, 2022 23:59 anywhere on earth
 - Acceptance notification: June 24 2022.
-- Workshop date: August 14, 2022
+- Workshop date: August 15, 2022
 
   - Morning topics (8:00 am - 12:00 pm): High-dimensional and sparse data
 
@@ -21,7 +21,9 @@ These challenges have been widely studied by the traditional machine learning an
 
 ### Morning session:
 
-- TBA
+- **[Weinan Zhang](https://wnzhang.net/):** Associate professor at Shanghai Jiao Tong University
+
+- **[Xiangyu Zhao](https://zhaoxyai.github.io/):** Assistant professor of Data Science at City University of Hong Kong (CityU)
 
 ### Afternoon session:
 
@@ -37,7 +39,17 @@ These challenges have been widely studied by the traditional machine learning an
 |       Time (EST)             | Event                             |
 |------------------------------|-----------------------------------|
 |        **Morning session**   |                                   |
-|8:00 am - 12:00 pm            |	TBA                              |
+|8:00 am - 8:30 am | Keynote 1:	Deep learning for click-through rate prediction	(Prof. Weinan Zhang, SJTU) |
+|8:30 am -8:50 am | 	Oral1:	A Brief History of Recommender Systems	(Zhenhua Dong Huawei Noah's Ark Lab)|
+|8:50 am -9:10 am | 	Oral2:	SGGG: Self-adaption Generative Gating Graph model for Personalized Micro-video Recommendation	(Yingshui Tan	Alibaba Group)|
+|9:10 am -9:30 am | 	Oral3:	Flattened Graph Convolutional Networks For Recommendation	(Yue Xu	BUPT&Tencent)|
+|9:30 am -9:50 am | 	Oral4:	Approximate Nearest Neighbor Search under Neural Similarity Metric for Large-Scale Recommendation	(Rihan Chen	Alibaba Group)|
+|9:50 am -10:10 am | 	Coffee break			|
+|10:10 am -10:40 am | 	Keynote 2:	Automated Machine Learning for Recommendations: Fundamentals and Advances (Prof. Xiangyu Zhao CityU of HK)		|
+|10:40 am -11:00 am | 	Oral5:	IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System	Xiangyang Li	(Peking University &Huawei Noah's Ark Lab)|
+|11:00 am -11:20 am | 	Oral6:	Efficient Long Sequential User Data Modeling for Click-Through Rate Prediction	(Qiwei Chen	Alibaba Group)|
+|11:20 am -11:40 am | 	Oral7:	GPatch: Patching Graph Neural Networks for Cold-Start Recommendations	(Hao Chen	Tencent)|
+|11:40 am -12:00 pm | 	Oral8:	GReS: Graphical Cross-domain Recommendation for Supply Chain Platform	(Zhiwen Jing	Meituan)|
 |        **Afternoon session** |                                   |
 |12:40 pm - 1:00 pm            |	Welcome and Introduction         |
 |1:00 pm - 1:40 pm	           |	Keynote 1: Bartosz Krawczyk      | 
@@ -89,7 +101,18 @@ The topics of interest include, but are not limited to, the following:
 
 ### Morning Session
 
-- TBA
+-	SGGG: Self-adaption Generative Gating Graph model for Personalized Micro-video Recommendation	Yingshui Tan (Alibaba Group); xiaofeng wang (alibaba group)*; Yuanliang Zhang (alibaba group); Zulong Chen (Alibaba); Jinxin Hu (Alibaba Group); Fei Fang (Alibaba Group)
+-	IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System	Xiangyang Li (Peking University); Bo Chen (Huawei Noah’s Ark Lab)*; Huifeng Guo (Huawei Noah's Ark Lab); Jingjie Li (Huawei Noah's Ark Lab); Chenxu Zhu (Shanghai Jiao Tong University); Xiang Long (Beijing University of Posts and Telecommunications); Sujian Li (Peking University); Yichao Wang (Huawei Noah's Ark Lab); Wei Guo (Huawei Noah's Ark Lab); Longxia Mao (Huawei Technologies Co Ltd); Jinxing Liu (Huawei Technologies Co Ltd); Zhenhua Dong (Huawei Noah's Ark Lab); Ruiming Tang (Huawei Noah's Ark Lab)
+-	A Brief History of Recommender Systems	Zhenhua Dong (Huawei Noah's Ark Lab)*; Zhe Wang (Tsinghua University); Jun Xu (Renmin University of China); Ruiming Tang (Huawei Noah's Ark Lab); Ji-Rong Wen (Renmin University of China)
+-	Approximate Nearest Neighbor Search under Neural Similarity Metric for Large-Scale Recommendation	Rihan Chen (Alibaba Group); Bin Liu (Alibaba Group); Han Zhu (Alibaba Group)*; Wang Yaoxuan (Alibaba Group); Qi Li (Alibaba); Buting Ma (Alibaba Group); qingbo hua (Alibaba); Jun Jiang (Alibaba); Yunlong Xu (Alibaba Group); Hongbo Deng (Alibaba Group); Bo Zheng (Alibaba Group)
+-	Efficient Long Sequential User Data Modeling for Click-Through Rate Prediction	Qiwei Chen (Alibaba Group)*; Yue Xu (Alibaba Group); Changhua Pei (Alibaba Group); Shanshan Lv (Alibaba Group); Tao Zhuang (Alibaba Group); Junfeng Ge (Alibaba Group)
+-	Entire Space Learning Framework: Unbias Conversion Rate Prediction in Full Stages of Recommender System	Shanshan Lv (Alibaba Group)*; Qiwei Chen (Alibaba Group); Tao Zhuang (Alibaba Group); Junfeng Ge (Alibaba Group)
+-	A Field-wise Analysis of Task Conﬂicts in Multi-Task Learning based Recommendation Models	Yichao Wang (Huawei Noah's Ark Lab)*; Zhicheng He (Huawei Noah's Ark Lab); Yuhuan Yang (Shanghai Jiao Tong University); JIAXIN CHEN (The Hong Kong Polytechnic University); Bo Chen (Huawei Noah’s Ark Lab); Zhirong Liu (Huawei Noah's Ark Lab); Ruiming Tang (Huawei Noah's Ark Lab)
+-	Flattened Graph Convolutional Networks For Recommendation	Yue Xu (Beijing University of Posts and Telecommunications)*; Hao Chen (Tencent); Zengde Deng (Cainiao Network); Yuanchen Bei (Zhejiang University); Feiran Huang (Jinan University)
+-	GPatch: Patching Graph Neural Networks for Cold-Start Recommendations	Hao Chen (Tencent)*; Zefan Wang (Jinan University); Yue Xu (Beijing University of Posts and Telecommunications); Xiao Huang (The Hong Kong Polytechnic University); Feiran Huang (Jinan University)
+-	Deep Position-wise Curve Network for Online Allocation in Sponsored Search	Fei Xiong (Alibaba Group)*; Zulong Chen (Alibaba); Mingyuan Tao (Alibaba Group); Liangyue Li (Alibaba Group); Shoudi Hao (Aalibaba Group)
+-	GReS: Graphical Cross-domain Recommendation for Supply Chain Platform	Zhiwen Jing (Taiyuan University of Technology)*; Yang Feng (Meituan); Xiaochen Ma (Meituan); Nan Wu (Meituan); Shengqiao Kang (Meituan); Hao Guo (Taiyuan University of Technology)
+-	Learning to Prerank with Feedback Cascading for Online Advertising	Zhishan Zhao (Alibaba Group); Yu Zhang (Alibaba Group); Shu-Guang Han (Alibaba Group)*; Han Zhu (Alibaba Group); Hongbo Deng (Alibaba Group); Bo Zheng (Alibaba Group)
 
 ### Afternoon Session
 
