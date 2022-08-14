@@ -14,7 +14,7 @@ These challenges have been widely studied by the traditional machine learning an
 - Workshop date: August 14, 2022
 
   - Morning topics (8:00 am - 12:00 pm): High-dimensional and sparse data
-  ** - The morning session has moved to 8am Aug 15th EDT on Zoom. Link will be out soon**{: style="color: red; opacity: 0.80;" }
+  ** - The morning session has moved to 8am Aug 15th EDT on Zoom. Link will be out soon**
 
   - Afternoon topics (12:40 pm - 5:15 pm): Imbalance and deep learning    
 
@@ -39,7 +39,7 @@ These challenges have been widely studied by the traditional machine learning an
 
 |       Time (EST)             | Event                             |
 |------------------------------|-----------------------------------|
-|        **Morning session - Aug 15th EDT on Zoom **{: style="color: red; opacity: 0.80;" }   |                                   |
+|        **Morning session - Aug 15th EDT on Zoom **   |                                   |
 |8:00 am - 8:30 am | Keynote 1:	Deep learning for click-through rate prediction	(Prof. Weinan Zhang, SJTU) |
 |8:30 am -8:50 am | 	Oral1:	A Brief History of Recommender Systems	(Zhenhua Dong Huawei Noah's Ark Lab)|
 |8:50 am -9:10 am | 	Oral2:	SGGG: Self-adaption Generative Gating Graph model for Personalized Micro-video Recommendation	(Yingshui Tan	Alibaba Group)|
@@ -51,7 +51,7 @@ These challenges have been widely studied by the traditional machine learning an
 |11:00 am -11:20 am | 	Oral6:	Efficient Long Sequential User Data Modeling for Click-Through Rate Prediction	(Qiwei Chen	Alibaba Group)|
 |11:20 am -11:40 am | 	Oral7:	GPatch: Patching Graph Neural Networks for Cold-Start Recommendations	(Hao Chen	Tencent)|
 |11:40 am -12:00 pm | 	Oral8:	GReS: Graphical Cross-domain Recommendation for Supply Chain Platform	(Zhiwen Jing	Meituan)|
-|        **Afternoon session - Aug 14th in-person **{: style="color: red; opacity: 0.80;" } |                                   |
+|        **Afternoon session - Aug 14th in-person ** |                                   |
 |12:40 pm - 1:00 pm            |	Welcome and Introduction         |
 |1:00 pm - 1:40 pm	           |	Keynote 1: Bartosz Krawczyk      | 
 |1:40 pm - 2:40 pm	           |	Paper Session (4 Paper Talks)    |
