@@ -14,6 +14,7 @@ These challenges have been widely studied by the traditional machine learning an
 - Workshop date: August 14, 2022
 
   - Morning topics (8:00 am - 12:00 pm): High-dimensional and sparse data
+  
   **The morning session has moved to 8am Aug 15th EDT on Zoom. Link will be out soon**
 
   - Afternoon topics (12:40 pm - 5:15 pm): Imbalance and deep learning    
