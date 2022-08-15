@@ -15,7 +15,7 @@ These challenges have been widely studied by the traditional machine learning an
 
   - Morning topics (8:00 am - 12:00 pm): High-dimensional and sparse data
   
-  **The morning session has moved to 8am Aug 15th EDT on Zoom. Link is [https://us06web.zoom.us/j/89489880544?pwd=d1BJelBWRHo4Skl0amFURXlPTStOQT09](https://us06web.zoom.us/j/89489880544?pwd=d1BJelBWRHo4Skl0amFURXlPTStOQT09) **
+  **The morning session has moved to 8am Aug 15th EDT on Zoom. ** The link is [https://us06web.zoom.us/j/89489880544?pwd=d1BJelBWRHo4Skl0amFURXlPTStOQT09](https://us06web.zoom.us/j/89489880544?pwd=d1BJelBWRHo4Skl0amFURXlPTStOQT09)
 
   - Afternoon topics (12:40 pm - 5:15 pm): Imbalance and deep learning    
 
